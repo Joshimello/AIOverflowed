@@ -7,9 +7,9 @@ An attempt to a Very Smart Glasses at 2024 MakeNTU Explorer Hackathon
 ## Installation
 
 > [!WARNING]  
-> This project was intended to be ran on the Raspberry PI
-> touch.py - Raspberry PI fully working code
-> model.py - Windows partial working code
+> This project was intended to be ran on the Raspberry PI  
+> touch.py - Raspberry PI fully working code  
+> model.py - Windows partial working code  
 
 To install the
 
