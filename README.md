@@ -11,7 +11,7 @@ An attempt to a Very Smart Glasses at 2024 MakeNTU Explorer Hackathon
 > touch.py - Raspberry PI fully working code  
 > model.py - Windows partial working code  
 
-To install the
+Install the dependencies
 
 ```bash
 pip install -r requirements.txt
